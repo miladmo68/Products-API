@@ -1,7 +1,6 @@
 <h1 align="center">💼 Products-API</h1>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/Products-API/"><b>🔗 Live Demo</b></a> •
   <a href="https://github.com/miladmo68/Products-API"><b>📦 Repository</b></a>
 </p>
 
@@ -14,7 +13,9 @@
 ## ​ Screenshot
 
 <p align="center">
-  <img width="1920" height="1080" alt="Products-API" src="https://github.com/user-attachments/assets/your-image-id.png" />
+<img width="1920" height="869" alt="SHOPPING-CART" src="https://github.com/user-attachments/assets/d1f1bf1a-3d17-4255-9e2e-26a7e9027c6b" />
+
+
 </p>
 
 ---
