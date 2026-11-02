@@ -1,66 +1,63 @@
-<h1 align="center">💼 Products-API</h1>
+<div align="center">
+
+# 🏷️ Products Search
+
+A product browser that searches products from the DummyJSON API as you type.
+
+<a href="https://miladmo68.github.io/Products-API/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/Products-API"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/Products-API](https://miladmo68.github.io/Products-API/)
+
+</div>
 
 <p align="center">
-  <a href="https://github.com/miladmo68/Products-API"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Products Search screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A lightweight mock REST API for product data built using <b>JSON Server</b> and deployed on <b>Vercel/GitHub Pages</b>. Ideal for prototyping front-end projects that require realistic product endpoints.
-</p>
+## ✨ Features
 
----
+- Product grid with images and prices
+- Live search
+- Tailwind CSS layout
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-<img width="1920" height="869" alt="SHOPPING-CART" src="https://github.com/user-attachments/assets/d1f1bf1a-3d17-4255-9e2e-26a7e9027c6b" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
+## 🚀 Getting Started
 
-</p>
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
----
-
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JSON%20Server-latest-yellow?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel/GitHub%20Pages-deploy-green?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
----
-
-## ​ Features
-
-| Feature | Description |
-| --- | --- |
-|  **Mock API** | Uses JSON Server to provide realistic REST endpoints for product data |
-|  **Quick Setup** | Great for frontend prototyping without needing a full backend |
-|  **Deploy-Ready** | Hosted on Vercel or GitHub Pages for immediate access |
-|  **Customizable Data** | Modify the JSON dataset to simulate various scenarios |
-|  **Linted & Formatted** | Ensures consistent code quality and readability |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/Products-API.git
 cd Products-API
-
-# 2) Install dependencies
 npm install
+npm run dev
+```
 
-# 3) Start JSON Server
-npm run serve
+## 📁 Project Structure
 
-# 4) Deploy (automatic via GitHub Pages/Vercel)
+```
+Products-API/
+├── public/
+├── src/
+├── eslint.config.js
+├── index.html
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
